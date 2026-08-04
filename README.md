@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andy! </h1>
+<h1>Hi, I'm Andika Nanda </h1>
 
 <h2>👨‍💻 Social Media Specialist:</h2>
 
@@ -7,15 +7,18 @@
 - <b>Multi-Platform Organic Growth & Content Strategy</b>
   - [EdTech Social Media Growth & Content Strategy](https://andikananda-prog.github.io/Social-Media-Portfolio/Multi-Platform%20Organic%20Growth%20%26%20Content%20Strategy.pdf)
 
+<h2>📄 Certification:</h2>
+
+- <b>Social Media Certified</b>
+  - [Social Media Certified](https://app-na2.hubspot.com/academy/achievements/hry9qk42/en/1/andika-nanda-zulfahmi/social-media-marketing)
+  
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[instagram]: https://www.instagram.com/andyzulv/
+[linkedin]: https://www.linkedin.com/in/andika-nanda/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
