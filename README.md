@@ -6,6 +6,8 @@
   - [Instagram Organic Growth](https://andikananda-prog.github.io/Social-Media-Portfolio/Instagram%20Organic%20Growth.pdf)
 - <b>Multi-Platform Organic Growth & Content Strategy</b>
   - [EdTech Social Media Growth & Content Strategy](https://andikananda-prog.github.io/Social-Media-Portfolio/Multi-Platform%20Organic%20Growth%20%26%20Content%20Strategy.pdf)
+- <b>Market Research & Lead Generation</b>
+  - [Market Research & Lead Generation Portfolio](https://andikananda-prog.github.io/Social_Media_Portfolio/Market%20Research%20and%20Lead%20Generation%20Portfolio.pdf)
 
 <h2>📄 Certification:</h2>
 
